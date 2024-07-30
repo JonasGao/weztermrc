@@ -25,3 +25,6 @@ Or ssh
 ```shell
 git clone git@github.com:JonasGao/weztermrc.git $HOME/.config/wezterm
 ```
+## Configuration
+
+Jump to [Configuration](https://wezfurlong.org/wezterm/config/files.html)
